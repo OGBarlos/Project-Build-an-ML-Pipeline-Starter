@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d54bd37195294e1d88d1507157cffc4d/artifacts
+end_time: 1709284527173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d54bd37195294e1d88d1507157cffc4d
+run_name: gentle-sheep-98
+run_uuid: d54bd37195294e1d88d1507157cffc4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709284524257
+status: 4
+tags: []
+user_id: kory

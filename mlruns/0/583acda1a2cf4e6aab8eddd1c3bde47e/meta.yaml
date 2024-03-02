@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/583acda1a2cf4e6aab8eddd1c3bde47e/artifacts
+end_time: 1709283464648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 583acda1a2cf4e6aab8eddd1c3bde47e
+run_name: fun-roo-731
+run_uuid: 583acda1a2cf4e6aab8eddd1c3bde47e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709283385987
+status: 4
+tags: []
+user_id: kory

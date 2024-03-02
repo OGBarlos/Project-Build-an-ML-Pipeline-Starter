@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/42dac826dcc14071b71230b298c63285/artifacts
+end_time: 1709275727993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42dac826dcc14071b71230b298c63285
+run_name: lyrical-asp-224
+run_uuid: 42dac826dcc14071b71230b298c63285
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709275714939
+status: 3
+tags: []
+user_id: kory

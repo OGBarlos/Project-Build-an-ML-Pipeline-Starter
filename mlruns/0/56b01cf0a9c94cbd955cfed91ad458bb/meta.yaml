@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/56b01cf0a9c94cbd955cfed91ad458bb/artifacts
+end_time: 1709275728150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 56b01cf0a9c94cbd955cfed91ad458bb
+run_name: learned-worm-37
+run_uuid: 56b01cf0a9c94cbd955cfed91ad458bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709275708113
+status: 3
+tags: []
+user_id: kory

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4fcc176b0299443880b334ece59d9271/artifacts
+end_time: 1709293668413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4fcc176b0299443880b334ece59d9271
+run_name: defiant-mouse-540
+run_uuid: 4fcc176b0299443880b334ece59d9271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709293550530
+status: 3
+tags: []
+user_id: kory

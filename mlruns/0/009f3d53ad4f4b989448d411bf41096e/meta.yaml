@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/009f3d53ad4f4b989448d411bf41096e/artifacts
+end_time: 1709283842991
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 009f3d53ad4f4b989448d411bf41096e
+run_name: calm-horse-312
+run_uuid: 009f3d53ad4f4b989448d411bf41096e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709283820858
+status: 3
+tags: []
+user_id: kory

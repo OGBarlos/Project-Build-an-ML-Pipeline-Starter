@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a08fd3ad492046848822c2bcccd6d21f/artifacts
+end_time: 1709291661460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a08fd3ad492046848822c2bcccd6d21f
+run_name: wistful-panda-85
+run_uuid: a08fd3ad492046848822c2bcccd6d21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709291561869
+status: 3
+tags: []
+user_id: kory

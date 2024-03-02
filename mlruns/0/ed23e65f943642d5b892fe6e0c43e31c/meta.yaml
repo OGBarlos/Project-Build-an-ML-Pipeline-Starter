@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ed23e65f943642d5b892fe6e0c43e31c/artifacts
+end_time: 1709285554398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed23e65f943642d5b892fe6e0c43e31c
+run_name: victorious-bear-486
+run_uuid: ed23e65f943642d5b892fe6e0c43e31c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709285394064
+status: 3
+tags: []
+user_id: kory

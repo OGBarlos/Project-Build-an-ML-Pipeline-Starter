@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/36c916071a3a432780ecb48003506dca/artifacts
+end_time: 1709291087252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36c916071a3a432780ecb48003506dca
+run_name: intelligent-sow-664
+run_uuid: 36c916071a3a432780ecb48003506dca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709291031039
+status: 4
+tags: []
+user_id: kory

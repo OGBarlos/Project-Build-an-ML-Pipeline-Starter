@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f88e2b1977d94077945e45e8eda6a57b/artifacts
+end_time: 1709291561747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f88e2b1977d94077945e45e8eda6a57b
+run_name: unruly-hen-893
+run_uuid: f88e2b1977d94077945e45e8eda6a57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709291495069
+status: 3
+tags: []
+user_id: kory

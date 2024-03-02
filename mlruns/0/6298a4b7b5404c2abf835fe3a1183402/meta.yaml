@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6298a4b7b5404c2abf835fe3a1183402/artifacts
+end_time: 1709313663437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6298a4b7b5404c2abf835fe3a1183402
+run_name: inquisitive-calf-853
+run_uuid: 6298a4b7b5404c2abf835fe3a1183402
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709313640528
+status: 3
+tags: []
+user_id: kory

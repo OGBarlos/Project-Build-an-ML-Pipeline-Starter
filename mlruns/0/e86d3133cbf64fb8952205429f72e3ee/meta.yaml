@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e86d3133cbf64fb8952205429f72e3ee/artifacts
+end_time: 1709269955334
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e86d3133cbf64fb8952205429f72e3ee
+run_name: omniscient-rook-863
+run_uuid: e86d3133cbf64fb8952205429f72e3ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709269937475
+status: 4
+tags: []
+user_id: kory

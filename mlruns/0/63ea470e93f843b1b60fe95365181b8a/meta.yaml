@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/63ea470e93f843b1b60fe95365181b8a/artifacts
+end_time: 1709281989131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ea470e93f843b1b60fe95365181b8a
+run_name: powerful-perch-72
+run_uuid: 63ea470e93f843b1b60fe95365181b8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709281969487
+status: 3
+tags: []
+user_id: kory

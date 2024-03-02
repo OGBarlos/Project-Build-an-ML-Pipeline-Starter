@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3cac56e009dc4970917c191bb38ea6ee/artifacts
+end_time: 1709262024370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cac56e009dc4970917c191bb38ea6ee
+run_name: dapper-boar-86
+run_uuid: 3cac56e009dc4970917c191bb38ea6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709261954902
+status: 4
+tags: []
+user_id: kory

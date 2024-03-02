@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d2bdfd30389243a0b6e40e2de21b4a96/artifacts
+end_time: 1709276665330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2bdfd30389243a0b6e40e2de21b4a96
+run_name: fortunate-horse-180
+run_uuid: d2bdfd30389243a0b6e40e2de21b4a96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709276601593
+status: 4
+tags: []
+user_id: kory

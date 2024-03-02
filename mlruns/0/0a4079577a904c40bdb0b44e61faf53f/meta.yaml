@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0a4079577a904c40bdb0b44e61faf53f/artifacts
+end_time: 1709290867879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a4079577a904c40bdb0b44e61faf53f
+run_name: upset-bird-478
+run_uuid: 0a4079577a904c40bdb0b44e61faf53f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709290729700
+status: 4
+tags: []
+user_id: kory

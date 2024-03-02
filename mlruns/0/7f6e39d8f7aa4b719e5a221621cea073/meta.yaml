@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7f6e39d8f7aa4b719e5a221621cea073/artifacts
+end_time: 1709285554555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f6e39d8f7aa4b719e5a221621cea073
+run_name: intelligent-ox-867
+run_uuid: 7f6e39d8f7aa4b719e5a221621cea073
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709285387639
+status: 3
+tags: []
+user_id: kory

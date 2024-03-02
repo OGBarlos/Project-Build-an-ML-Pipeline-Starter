@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/972e2d081732429d883316c3d5746d02/artifacts
+end_time: 1709276425533
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 972e2d081732429d883316c3d5746d02
+run_name: sincere-newt-662
+run_uuid: 972e2d081732429d883316c3d5746d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709276409901
+status: 4
+tags: []
+user_id: kory

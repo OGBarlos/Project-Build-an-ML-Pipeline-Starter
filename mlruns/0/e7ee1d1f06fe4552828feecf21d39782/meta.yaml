@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e7ee1d1f06fe4552828feecf21d39782/artifacts
+end_time: 1709293668254
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e7ee1d1f06fe4552828feecf21d39782
+run_name: righteous-snipe-941
+run_uuid: e7ee1d1f06fe4552828feecf21d39782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709293556313
+status: 3
+tags: []
+user_id: kory

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/97b2381e470a4059a6d793d07677e011/artifacts
+end_time: 1709283842834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97b2381e470a4059a6d793d07677e011
+run_name: clean-ant-986
+run_uuid: 97b2381e470a4059a6d793d07677e011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709283823846
+status: 3
+tags: []
+user_id: kory

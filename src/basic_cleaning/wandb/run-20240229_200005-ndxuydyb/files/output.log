@@ -1,0 +1,9 @@
+2024-02-29 20:00:06,651 Fetching raw dataset.
+2024-02-29 20:00:07,710 Cleaning data.
+2024-02-29 20:00:07,723 Saving and exporting cleaned data.
+Traceback (most recent call last):
+  File "/home/kory/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 103, in <module>
+    go(args)
+  File "/home/kory/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py", line 43, in go
+    df.to_csv('clean_sample.csv', index=False)
+AttributeError: 'function' object has no attribute 'to_csv'

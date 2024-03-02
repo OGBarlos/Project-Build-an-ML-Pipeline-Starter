@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kory/Project-Build-an-ML-Pipeline-Starter/mlruns/0/feeb6aaf25d143dfbda900bcf7898a52/artifacts
+end_time: 1709291848771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: feeb6aaf25d143dfbda900bcf7898a52
+run_name: polite-fish-152
+run_uuid: feeb6aaf25d143dfbda900bcf7898a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709291492505
+status: 3
+tags: []
+user_id: kory
